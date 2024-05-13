@@ -1,6 +1,6 @@
 ## About me
 
-I am a software engineer, specialized in cloud native backend development and cyber security (Ethical Hacking).
+I am a Software Engineer, specialized in Cloud Native backend development and Ethical Hacking
 
 ## Statistics
 
